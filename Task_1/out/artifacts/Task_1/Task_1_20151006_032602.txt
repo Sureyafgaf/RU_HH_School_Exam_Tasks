@@ -1,0 +1,9 @@
+Dot #1: x=12, y=23; radius=22.360679774997898; neighbours=5;
+Dot #2: x=14, y=58; radius=35.05709628591621; neighbours=5;
+Dot #3: x=74, y=1; radius=52.03844732503075; neighbours=7;
+Dot #4: x=1, y=1; radius=6.708203932499369; neighbours=2;
+Dot #5: x=22, y=3; radius=19.697715603592208; neighbours=4;
+Dot #6: x=-1, y=-58; radius=53.23532661682466; neighbours=6;
+Dot #7: x=4, y=-5; radius=6.708203932499369; neighbours=2;
+Dot #8: x=-7, y=0; radius=8.06225774829855; neighbours=2;
+
